@@ -1,0 +1,16 @@
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\obj\Debug\LearningUT.csprojResolveAssemblyReference.cache
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\obj\Debug\LearningUT.csproj.CoreCompileInputs.cache
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\nunit.engine.dll
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\nunit.engine.api.dll
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\Mono.Cecil.dll
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\LearningUT.exe.config
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\LearningUT.exe
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\LearningUT.pdb
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\nunit.framework.dll
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\bin\Debug\nunit.framework.xml
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\obj\Debug\LearningUT.exe
+C:\Users\TONY\Documents\Visual Studio 2017\Projects\LearningUT\LearningUT\obj\Debug\LearningUT.pdb
