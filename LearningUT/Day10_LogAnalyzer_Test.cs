@@ -12,7 +12,7 @@ namespace LearningUT
             myFakeManager.WillBeValid = true;
 
             Day10_LogAnalyzer log = new Day10_LogAnalyzer(myFakeManager);
-            bool result = log.IsValidLogFileName("test.log");
+            bool result = log.IsValidLogFileName("test.TEST");
             Assert.True(result);
         }
         internal class FakeExtensionManager : IExtensionManager
