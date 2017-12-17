@@ -41,6 +41,8 @@
   <ItemGroup>
     <Compile Include="Day10_LogAnalyzer.cs" />
     <Compile Include="Day10_LogAnalyzer_Test.cs" />
+    <Compile Include="Day13_LogAnalyzer.cs" />
+    <Compile Include="Day13_LogAnalyzer_Test.cs" />
     <Compile Include="LogAnalyzerTest.cs" />
     <Compile Include="LogAnalyzer.cs" />
     <Compile Include="LogAnalyzerTest_TestCase.cs" />

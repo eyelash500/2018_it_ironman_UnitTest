@@ -10,11 +10,10 @@
 
         public bool IsValidLogFileName(string fileName)
         {
-            //IExtensionManager mgr = new FileExtensionManager();
             return manager.IsValid(fileName);
-            //return mgr.IsValid(fileName);
         }
     }
+
     //interface: define an adapter.
     public interface IExtensionManager
     {

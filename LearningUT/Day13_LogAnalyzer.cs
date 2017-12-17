@@ -16,28 +16,15 @@ namespace LearningUT
 
         public void Analyze(string fileName)
         {
-            if (fileName.EndsWith(".log", StringComparison.CurrentCultureIgnoreCase))
+            if (!fileName.EndsWith(".log", StringComparison.CurrentCultureIgnoreCase))
             {
-                service.LogMessage("true");
+                service.LogMessage("false"); 
             }
             else
             {
-                service.LogMessage("false");
+                service.LogMessage("true");
             }
         }
-
-        [Test]
-        public void LogAnalyze_NameSupportedExtension_CallWebservice()
-        {
-            FakeWebService mokeSample = new FakeWebService();
-            Day13_LogAnalyzer log = new Day13_LogAnalyzer(mokeSample);
-            
-            log.Analyze("test_false.false");
-            //log.Analyze("test_true.log");
-
-            StringAssert.Contains("It is log file:", mokeSample.LastMessage);
-        }
-
     }
 
     #region Mock
