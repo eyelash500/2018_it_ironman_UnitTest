@@ -7,14 +7,6 @@
         {
             manager = mgr;
         }
-        //public class FileExtensionManager : IExtensionManager
-        //{
-        //    public bool IsValid(string fileName)
-        //    {
-        //        return true;
-        //    }
-            
-        //}
 
         public bool IsValidLogFileName(string fileName)
         {
