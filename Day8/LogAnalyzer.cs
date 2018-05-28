@@ -13,7 +13,14 @@ namespace Day8
 
             if (string.IsNullOrEmpty(fileName))
             {
-                throw new ArgumentException("請提供檔名 please provide the filename");
+                try
+                {
+                    throw new ArgumentException("請提供檔名 please provide the filename");
+                }
+                catch 
+                {
+                    return false;
+                }
             }
 
             if(!fileName.EndsWith(".log", StringComparison.CurrentCultureIgnoreCase))
